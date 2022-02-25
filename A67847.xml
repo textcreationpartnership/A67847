@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Captaine Yarner's relation of the battaile fought at Kilrush upon the 15th day of Aprill by my Lord of Ormond who with 2500 foot and 500 horse overthrew the Lord Mountgarret's army consisting of 8000 foot and 400 horse all well armed and the choyce of eight counties : together with a relation of the proceedings of our army, from the second to the later end of Aprill 1642.</title>
+            <author>Yarner, Captain.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67847</idno>
+            <idno type="STC">Wing Y9</idno>
+            <idno type="STC">ESTC R19735</idno>
+            <idno type="EEBO-CITATION">12607734</idno>
+            <idno type="OCLC">ocm 12607734</idno>
+            <idno type="VID">64279</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67847)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64279)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 251:E145, no 16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Captaine Yarner's relation of the battaile fought at Kilrush upon the 15th day of Aprill by my Lord of Ormond who with 2500 foot and 500 horse overthrew the Lord Mountgarret's army consisting of 8000 foot and 400 horse all well armed and the choyce of eight counties : together with a relation of the proceedings of our army, from the second to the later end of Aprill 1642.</title>
+                  <author>Yarner, Captain.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coules and G. Badger,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of t.p.: May the 4th.</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688.</term>
+               <term>Mountgarret, Richard Butler, --  Viscount, 1578-1651.</term>
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64279:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 21 -->
+            <p>
+               <hi>May</hi> the 4<hi rend="sup">th.</hi>
+            </p>
+            <p>Captaine YARNER'S RELATION OF THE Battaile fought at <hi>Kilruſh</hi> upon the 15<hi rend="sup">th.</hi> day of <hi>Aprill,</hi> by my Lord of ORMOND, who with 2500 Foot and 500 Horſe, overthrew the Lord <hi>Mountgarret's</hi> Army, conſiſting of 8000 Foot and 400 Horſe, all well armed, and the choyce of eight Counties.</p>
+            <p>Together with a Relation of the procee<g ref="char:EOLhyphen"/>dings of our Army, from the ſecond to the later end of <hi>Aprill,</hi> 1642.</p>
+            <figure>
+               <figDesc>battle scene</figDesc>
+            </figure>
+            <p>LONDON, Printed for <hi>F. Coules,</hi> and <hi>G. Badger,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_battle">
+            <pb facs="tcp:64279:2"/>
+            <!-- PDF PAGE 22 -->
+            <pb n="1" facs="tcp:64279:2"/>
+            <!-- PDF PAGE 22 -->
+            <head>
+               <hi>Captaine</hi> Yarner <hi>his Relation of the Battail fought at</hi> Kill-ruſh <hi>on the</hi> 15 Aprill, 1642.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He 14 day of <hi>April</hi> my Lord of <hi>Ormund</hi> having intel<g ref="char:EOLhyphen"/>ligence that the Lord <hi>Mountgarret,</hi> was come down from <hi>Kilkenny,</hi> with the choyce forces of that County and 8 Counties more, ſent out the Commander of his own troope Sir <hi>Patrick Wems</hi> and with him Captaine <hi>Armeſtrong</hi> to view their numbers and manner of lod<g ref="char:EOLhyphen"/>ging, who being diſcovered from their Army, they entertained with an Ambuſcado of 10 Musketters: who ſwamme the river or made hard ſhift to get over, and the better to toll them unto danger ſent over ſome 10 Horſemen, but their Ambuſh was diſcovered, and Cap<g ref="char:EOLhyphen"/>taine <hi>Armeſtrong</hi> diſmounting 6 Dragoneers, drove them to make as hard ſhift to return with the loſſe of their armes, the horſe being char<g ref="char:EOLhyphen"/>ged with a ſmall party of ours tooke the ſame courſe for their faſety; ours eſcaped not ſhot free, for 2 or 3 of my L. of <hi>Ormunds</hi> troope were hurt, and Sir <hi>Patrick Wems</hi> horſe ſhot under him, to be better ſatisfied my L. of <hi>Ormound,</hi> with Sir <hi>Tho.' Lucas,</hi> and a troop of Gentlemen vol<g ref="char:EOLhyphen"/>luntiers, moſt of them Officers, and ſome other troopes, went himſelf to ſee the countenance of the Rebels; ſome ſhot they made at him, but he returned with this reſolution, not to alter or make any ſtay of his fore reſolved march, nor to go one foot out of the way for them: The next morning we had order to march: I viſiting my L. of <hi>Ormund</hi> to receive his Commands, he did me the honor to aske my opinion, and withall told me his, <hi>viz.</hi> Not to avoid them, nor to ſeek them up<g ref="char:EOLhyphen"/>on their advantage, and that he had finiſhed his deſignes in deſpight of them, and if they had the confidence to ſtop his paſſadge he would make his way through them.</p>
+            <p>Notwithſtanding the neereneſſe of his inſulting enemy, his Lord<g ref="char:EOLhyphen"/>ſhip tooke care for the ſafety of the Town of <hi>Athy,</hi> left behind him there, as I take it, 3 Companies, with neceſſaryes for a town of defence, and ſo after prayers, which every morning was performed, began to march; which he had diſpoſed to beſt advantage he could, how ever our traine and baggage was a great hinderance to our march, and a great weakening to us, making ſo great an interpoſition betwixt our Van and Reare; Cornet <hi>Pollard</hi> was ſent with 30 Horſe, as Van Cur<g ref="char:EOLhyphen"/>rier to ſee the paſſages free from Ambuſhes, to ſecond him was ſent a party of firelocks, I think about 100 or 200, the Rebels appeared with their numerous Army, adorned with many Colors, on the other ſide
+<pb n="2" facs="tcp:64279:3"/>
+               <!-- PDF PAGE 23 -->of the bog by a Caſtle called <hi>Killika,</hi> ſome 3 miles diſtant from us, but marching very ſwiftly towards us, without any trouble of carriages and ſomtimes we could perceive them to trot, all this while we kept on a ſteddy march with as much order as the inconveniency of our carriages would <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leave, and my L. of <hi>Ormond</hi> was reſolved not to ſpare a bit of it, bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deare rate, notwithſtanding the L. <hi>Mount<g ref="char:EOLhyphen"/>garret</hi> had made liberal promiſes of it and us to his Souldiers, aſſuring them that we were running away and would not ſtrike one blow, commanding them not to ſpare one of us, and to that purpoſe had ſent to gard all p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſages, by which we might eſcape, that one might not live to ca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry news to <hi>Dublin,</hi> but <gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>od diſpoſed other ways.</p>
+            <p>About 2 or 3 of the clock in the afternoon (as I take it) our way led us neer them and to a paſſe, which they haſtened to take, which had been a great prejudice to us, to prevent which, Sir <hi>Tho. Lucas</hi> with 6 troops haſted to gaine it, which he did and faced their Van, and ſo brought them to a ſtand: My L. of <hi>Ormond</hi> ſeeing he could <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> paſſe without manifold danger to his Carriages and Reare-gard, drew the Van into a battalia, ſending his Carriages away behind him under the gard of the Van Curriers, and haſted up the Reare, which being pla<g ref="char:EOLhyphen"/>ced in a handſome forme of Battaile, which he did all himſelf and fit<g ref="char:EOLhyphen"/>ted his Battalias to the ground on which he ſtood.</p>
+            <p>Sir <hi>Tho. Lucas</hi> ſeeing my Lord in a poſture to fight, left his ſtation and returned to my Lord and preſently drew his Horſe to flanke the left wing of the Foot, and gave me charge of the Reſerve, himſelf pre<g ref="char:EOLhyphen"/>paring for the charge with Cap. <hi>Armeſtrong</hi> and Sir <hi>Patrick Weames;</hi> I had for the Reſerve the L. Lieftenants Troope, Sir <hi>Geor. Wentworths</hi> commanded by Cap. <hi>Harmon</hi> &amp; Sir <hi>Char. Coots</hi> commanded by Lief<g ref="char:EOLhyphen"/>tenant <hi>Daniel Havilide.</hi> The left wing was flanked with 3 troopes commanded by <hi>Sir Richard Greenefield, viz.</hi> the Lord <hi>Liles</hi> comman<g ref="char:EOLhyphen"/>ded by Captain <hi>Treſwell</hi> his own, and Captain <hi>Stouts:</hi> in the meane time our Cannon made 16 ſhot at the Rebels, but feared more than hurt them: our forlorne hope being 100 Musketters commanded by Cap. <hi>R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chford</hi> began to give fire upon their batalia, being ſeconded with 100 Firelocks commanded by Cap. <hi>Samford;</hi> the whole Army Horſe an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Foot advancing towards the Rebels, Sir <hi>Tho. Lucas</hi> with his 3 troops 6 fe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te before them, eſpying a breach in the ditch, where 4 horſes might charge a breſt, began to trot towards their ſtrongeſt and t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ckeſt body, where ſtood about foureſcore Horſe of theirs, who firſt began to run, their body preſently began to ſtagger, which hee perceaving, began to ſet ſpurs and ruſht into the middle of them with his three troops, the other three being ſo greedy of exe<g ref="char:EOLhyphen"/>cution, could not be reſtrained, notwithſtanding all my endeavours
+<pb n="3" facs="tcp:64279:3"/>
+               <!-- PDF PAGE 23 -->and premonitions: Sir <hi>Rich. Greenfield</hi> with his 3 trops charged their left wing and there routed them likewiſe; ſo that they had only their Van conſiſting of about 1500 and one troop, who ſeemes to advance a little, but were preſently ſought with by my L. of <hi>Ormonds</hi> troope of Volluntiers wherein Collo. <hi>Barry</hi> and Collo. <hi>Farrar,</hi> and many more Officers of quality ſerved. Col. <hi>Craford</hi> advancing with his Diviſions put them to a haſty, but not ſo diſorderly a retreit, as the reſt; the exe<g ref="char:EOLhyphen"/>cution laſted 2 miles, I conjecture we could not kill ſo few as 500. Many more Armes were loſt, that little baggage which they had with their little quantity of Amunition come to our Cuſtody, the bog behind them and our former labours which had worne us much was their protection: what men of quality were ſlaine I certainely know not but many there were; it growing now late and having 5 or 6 miles to our quarters where we intended that night to lodge, my L. commanded prayers and thankſgiving to God for the victory to be performed on the place, and ſo in the beſt order wee could mar<g ref="char:EOLhyphen"/>ched towards ould Connell, where that night we lodged.</p>
+            <p>In this buſineſſe I could not find one man taxed for any thing in the execution of his duty; from the higheſt to the loweſt there was a great alacrity and cheerefulnes in their countenance, the Officers comman<g ref="char:EOLhyphen"/>ding, the Souldiers with a gallant ſilence obaying and kept their or<g ref="char:EOLhyphen"/>ders and diſtance, with much more care and exactneſſe, than uſually in their common exerciſe: the enemy had a trebble number, the advan<g ref="char:EOLhyphen"/>tage of place, ſun and wind, which no art could prevent them of; but God gave us the advantage of courage and conduct, and had not our Horſe been too furious in the execution, the ſlaughter had beene the greater. Sir <hi>Char. Coote</hi> would not be out, but as if he had been but 30 yeares old, charged in amongſt them and with his owne hand did brave execution, and although at firſt he had loſt his Cap, yet would his earneſtneſſe not permit him to ſtay to take it up, but bare headed ſcoured about the field, crying, Kill, kill, and with his hand gave the example, whilſt my L. of <hi>Ormond</hi> ſecured the Cannon, and victory, with ſome diviſions of foot, and beat their Van into a ſpeedy Re<g ref="char:EOLhyphen"/>traite, <hi>&amp;c.</hi>
+            </p>
+            <closer>Soli Deo gloria.</closer>
+         </div>
+         <div type="account_of_armys_proceedings">
+            <pb n="4" facs="tcp:64279:4"/>
+            <!-- PDF PAGE 24 -->
+            <head>A ſhort Relation of the proceedings of our Army in their march through the Queenes County, to the reliefe of ſundry Townes and Ca<g ref="char:EOLhyphen"/>ſtles beſieged by the Rebels.</head>
+            <p>THe 2. of <hi>April,</hi> my Lord of <hi>Ormond</hi> took the field with 3000. foot, and 500. Horſe, marching from <hi>Dublin</hi> in the Evening with five peeces of ordinance, and 200. waggons with A<g ref="char:EOLhyphen"/>munition, and victualls for the uſe of our Army, and the re<g ref="char:EOLhyphen"/>liefe of our Forts beſieged, and that night they lodged at <hi>Racoole,</hi> 6. miles from <hi>Dublin,</hi> from whence Captain <hi>Yarner</hi> was ſent with two Troopes of Horſe to deſtroy the Country on the left hand, under the Mountaines, in the County of <hi>Wicklo,</hi> with command to meet the Army the next night at the <hi>Nace,</hi> which he did; having burnt 10. or 12. Villages, and ſlain about 10. men armed, Sir <hi>George Wentworths</hi> Troope paſſing by the Caſtle of <hi>Tipper,</hi> within a mile of the <hi>Nace,</hi> had their Trumpeter ſlaine from the Caſtle, in revenge whereof, Sir <hi>Charles Coote</hi> drew up 200 Firelockes and a Troope of Horſe to it, and blew up the Caſtle, putting all to the ſword.</p>
+            <p>That night the Army lodged at the <hi>Nace,</hi> and the next day mar<g ref="char:EOLhyphen"/>ched to old <hi>Connell,</hi> and the day following, came to <hi>Athy,</hi> where they found the Towne burnt by our own people the day before, who had all betaken themſelves to the Caſtle, not being able to defend the Town any longer, but by the approach of our Army, their wants tur<g ref="char:EOLhyphen"/>ned to great plenty; Captain <hi>Yarner</hi> having brought into the Town 500. head of Cattle, which he had driven out of the Country, beſides what was brought in by others: during this march about 8. ſcore horſ were ſent by my Lord of <hi>Ormond</hi> to rownd the Country by <hi>Cullen</hi> Bridge, with proviſions to releeve Sir <hi>George Greanes</hi> his Caſtle, and the Caſtle of <hi>Carlo,</hi> which was cloſe beſet by 1300. Rebels, but upon the approach of our horſe they fled, and in the Town of <hi>Carlo</hi> were ſlaine and hanged about 100 men, and having relieved the ſaid Ca<g ref="char:EOLhyphen"/>ſtles, our horſe returned to our Army, which were marched from <hi>Athy</hi> to <hi>Mary-burrow, alias, The fort of leaſe,</hi> where our body of foot remained, and about 400. horſe were ſent under the command of Sir <hi>Charles Coote</hi> to relieve <hi>Burrowes,</hi> the <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irre</hi> and other forts there-about, in which ſervice he ſtayed abroad three dayes, and having re<g ref="char:EOLhyphen"/>lieved the ſaid Towns, after ſeverall skirmiſhes, and as many ſlaugh<g ref="char:EOLhyphen"/>ters of the Rebels, who lay like ſwarmes of Bees in the woods, bogs and other places of advantage, through which our Horſe paſſed, and in their returne relieved Sir <hi>Robert Piggots</hi> Caſtle, and the Town of
+<pb n="5" facs="tcp:64279:4"/>
+               <!-- PDF PAGE 24 -->
+               <hi>Balle-Ma-Kill.</hi> which he found in great diſtreſſe, and out of theſe ſe<g ref="char:EOLhyphen"/>verall places he brought with him men, women and children, ſuch as were not ſerviceable, to the number of 60. families, which at his re<g ref="char:EOLhyphen"/>turne he planted at the <hi>Nace,</hi> 12. miles from <hi>Dublin.</hi>
+            </p>
+            <p>Thus having performed what they intended, he returnd to our Ar<g ref="char:EOLhyphen"/>my at <hi>Mary-burrow,</hi> both horſe and man being quite ſpent with ex<g ref="char:EOLhyphen"/>traordinary marching, thorough the bogs and woods, having in 48. howers together taken but three howres reſt, and in all this ſervice loſt not one man, only about 30. or 40. horſe were loſt in the bogs, Captaine <hi>Yarner</hi> being ſhot in the head, and Captaine <hi>Armeſtrong</hi> ſhot in the belly, but had no hurt, only cruſhed them a little, our horſe being returned to <hi>Mary-burrough,</hi> my Lord of <hi>Ormond</hi> having left a good Garriſon there, returned to <hi>Athy,</hi> and having left a ſtrong Garriſon there, and overthrowne my Lord <hi>Mountgarret,</hi> with the flower of the Rebels, he returned to old <hi>Connell,</hi> and ſo to the <hi>Nace,</hi> where Sir <hi>Charles Coote</hi> with his Regiment and 300. Horſe, being left in Garriſon, the Lord of <hi>Ormond,</hi> with the reſt of our Army re<g ref="char:EOLhyphen"/>turning to <hi>Dublin,</hi> where we joyfully received him upon the 17. of <hi>Aprill,</hi> being Sunday, having in that ſpace being but 15. dayes, mar<g ref="char:EOLhyphen"/>ched above 50 miles out-right into the Country, and relieved all our diſtreſſed Forts and Townes thereabouts, in deſpight of all the pow<g ref="char:EOLhyphen"/>wer of the Rebels, Sir <hi>Charles Coote</hi> being left in the <hi>Nace</hi> aforeſaid, did there plant the 60 families of poore people, which he brought with him out of the Queenes County: and having by his dayly ſal<g ref="char:EOLhyphen"/>lyes. from thence into the Country round about him, brought in great ſtore of Cattle, Corne, and proviſion, he gave to the ſaid fami<g ref="char:EOLhyphen"/>lies 300. milch Cowes, upon condition that they ſhould ſel milke to his Souldiers, at a halfe penny a quart, and Butter and Cheeſe <hi>pro Ra<g ref="char:EOLhyphen"/>to;</hi> he gave them alſo great ſtore of Corne at the rate of 10 ſhillings the Wincheſter bound barrell, after which rate they are to provide Bread for his Souldiers; if all our commanders would take this ex<g ref="char:EOLhyphen"/>ample, we ſhould have no want in our Army, nor be thus burthened as we are with the maintenance of many thouſands of poore ſtript people, gathered hither out of all parts of the Country, moſt of them people of quality: Sir <hi>Charles Coote</hi> hath alſo baniſhed all the <hi>Iriſh</hi> women and children out of the <hi>Nace,</hi> not to be ſeen in the Town or thereabouts, upon paine of death, their men being all fled before.</p>
+            <p>Out of the 800. Horſe received out of <hi>England</hi> this laſt weeke, with my Lord <hi>Lile</hi> 400. are ſent for <hi>Drogheda,</hi> and the Towne of <hi>Dundalke,</hi> 200. to my Lord <hi>Moore,</hi> who in Sir <hi>Henry Tichburnes</hi> ab<g ref="char:EOLhyphen"/>ſence is Governor of <hi>Drogheda,</hi> and 200. to Sir <hi>Henry</hi> himſelfe at <hi>Dundalke,</hi> together with 300 foot, from whence we hope ſhortly to
+<pb n="6" facs="tcp:64279:6"/>
+               <!-- PDF PAGE 26 -->heare of ſome good ſervice effected by them, Sir <hi>Henry</hi> having burnt up all the Country round about him, for 5, or ſixe miles, and having underſtood that Sir <hi>Phelom o Neale</hi> had raiſed a new Army of 3000, men and lay at the <hi>Newry,</hi> but 8 miles from him, he iſſued out of <hi>Dundalke,</hi> with 800. men and went 6 miles to go and viſit him, where Sir <hi>Phelom o Neal</hi> appeared on the one ſide of him, with 1500 men, and Collonell Maſter <hi>Bryan</hi> on the other ſide him, with 1000. more; both which Armies he with his 800. men dared to battle, but they refuſing him, he returned to <hi>Dundalke,</hi> burning all before him. There are now ſome ſtore of Scots landed in the North at <hi>Knock-fergus,</hi> with a Regiment of Engliſh and ſtore of Armes and Amuni<g ref="char:EOLhyphen"/>tion, ſo that we hope ſhortly to have the paſſages cleare betwixt us and them, and that Sir <hi>Henry Tichburne</hi> will joyne with their Army which by this time we ſuppoſe is drawing towards him; but we have here ſtrange reports of the behaviour of the <hi>Scots,</hi> which we hope are falſe: if they ſhould prove true, we ſhould ſoone be wea<g ref="char:EOLhyphen"/>ry of them: here is alſo a tumour of a Ship of 300. Tonne, lately ar<g ref="char:EOLhyphen"/>rived at <hi>Wexford,</hi> with Amunition from <hi>Hamberough,</hi> which if true is very bad newes, and will coſt much bloud in this Kingdome, if our Seas be no better guarded, alſo ſome Ships with Amunition are ſaid to be gotten into <hi>Galloway,</hi> and we have alſo ſent ſome Ships thi<g ref="char:EOLhyphen"/>ther to relieve the Fort which we feare may be in ſome diſtreſſe: if they have gotten any ſtore of Ordinance and Amunition into the Citty, the greateſt power of the Rebels lyeth in the Weſt, about <hi>Corke, Kingſaile,</hi> and <hi>Bandon</hi> Bridge, but God ſending ſome timely ſuccour thither, we hope ſpeedily to remove them from thence. The ſecond of <hi>April,</hi> the Counteſſe of <hi>Ormond,</hi> with all her Children, and about 100 poore ſtript <hi>Engliſh</hi> arrived at <hi>Dublin,</hi> ſhee being priſoner to my Lord <hi>Mountgarret</hi> 5. months before, and was now brought to <hi>Dublin</hi> by Captaine <hi>Bartlet,</hi> in the Kings Pinace from <hi>Waterford;</hi> the Fort of <hi>Duncannon,</hi> at the mouth of that Harbor being ſecure: our Army is ſhortly going forth againe farther Weſtward to relieve divers parts there diſtreſſed, and in the County of <hi>Wicklo,</hi> the Lord be their protection, <hi>&amp;c.</hi>
+            </p>
+            <pb facs="tcp:64279:5"/>
+            <!-- PDF PAGE 25 -->
+            <pb n="1" facs="tcp:64279:5"/>
+            <!-- PDF PAGE 25 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
